@@ -1,5 +1,5 @@
-def my_hash = {first_name: "Ted", last_name: "Sazon"}
-
+def my_hash  
+  TS = {first_name: "Ted", last_name: "Sazon"}
 
 end
 
